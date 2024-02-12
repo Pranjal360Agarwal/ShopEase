@@ -18,10 +18,8 @@ const Hero = () => {
           Best Collection for <br /> home Decoration
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#000000ba]">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae,
-          assumenda? Quisquam itaque <br /> exercitationem labore vel, dolore
-          quidem asperiores, laudantium temporibus soluta optio consequatur{" "}
-          <br /> aliquam deserunt officia. Dolorum saepe nulla provident.
+          Elevate your living spaces with the Modern Elegance Collection. Clean lines, luxurious materials, <br /> and minimalist designs characterize this sophisticated ensemble. Whether it's sleek furniture, <br /> metallic accents, or statement lighting, each piece exudes contemporary charm,  <br />creating an atmosphere of refined beauty. 
+          
         </p>
         <Link to="/products" className="inline-block">
             <div className={`${styles.button} mt-5`}>
